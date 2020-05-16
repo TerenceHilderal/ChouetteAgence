@@ -55,7 +55,10 @@ a:hover {
 .bloc-sm {
     padding: 20px 50px;
 }
-
+.subimage{
+    font-size: 18px;
+    font-weight: 700;
+}
 .bg-center,
 .bg-l-edge,
 .bg-r-edge,
