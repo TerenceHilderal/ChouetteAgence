@@ -402,7 +402,12 @@ a:hover {
         margin: 10px auto 0;
     }
 }
-
+.img-responsive{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+}
 .nav > li > .dropdown a {
     background: none!important;
     display: block;
