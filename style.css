@@ -782,8 +782,8 @@ h4 {
     background-color: #F3976C;
 }
 
-.tc-white {
-    color: black!important;
+.tc-white { 
+    color:black!important;
 }
 
 .btn-atomic-tangerine {
@@ -822,7 +822,7 @@ h4 {
 }
 
 .bg-lines-h2-bg {
-    background-image: url("img/lines-h2-bg.png");
+    background-image: url("img/lines-h2-bg.jpg");
 }
 
 .bg-banniere {
