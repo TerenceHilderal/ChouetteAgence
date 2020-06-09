@@ -3690,7 +3690,7 @@ textarea.input-lg {
 .btn.focus,
  .btn:focus, 
 .btn:hover {
-    border: 2px solid rgb(102, 175, 223);
+    border: 1.5px solid rgb(102, 175, 223);
     text-decoration: none
 }
 
