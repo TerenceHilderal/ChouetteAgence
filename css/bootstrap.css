@@ -3688,9 +3688,9 @@ textarea.input-lg {
 }
 
 .btn.focus,
-.btn:focus,
+ .btn:focus, 
 .btn:hover {
-    color: #333;
+    border: 2px solid rgb(102, 175, 223);
     text-decoration: none
 }
 
